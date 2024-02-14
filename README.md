@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E0F8&height=150&section=header" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Welcome%20to%20Jordy's%20dev%20spce&fontSize=45) 
+ <br/>
+ 
 # 🐰 About Me
 <li> <b>Dankook Univ / Software</b> </li>
 <li> <b>Backend Developer</b> </li>
