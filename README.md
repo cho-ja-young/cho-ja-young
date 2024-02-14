@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Jordy's%20dev%20spce&fontSize=40) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Jordy's%20dev%20space&fontSize=40) 
  <br/>
  
 # 🐰 About Me
