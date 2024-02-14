@@ -4,7 +4,7 @@
   
 <br>
 
-## 메달 🎖️ Cards  
+# 🎖️ Cards  
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwkahd3)](https://solved.ac/whwkahd3)
 
@@ -14,25 +14,26 @@
 ### ✔ Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </p>
 
 ### ✔ Frontend
 <p>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
 ### ✔ Etc
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
 <br>
