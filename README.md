@@ -2,7 +2,13 @@
 <li> <b>Dankook Univ / Software</b> </li>
 <li> <b>Backend Developer</b> </li>
   
-<br><br>
+<br>
+
+## 메달 🎖️ Cards  
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwkahd3)](https://solved.ac/whwkahd3)
+
+<br>
 
 # 🛠 Tech Stacks
 ### ✔ Backend
