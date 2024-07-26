@@ -54,5 +54,6 @@
 |:--:|:--:|:--:|:--:|:--:|
 |2024.03-2024.12 |데보션 영<br>(서버 개발, 데이터 관리, 인프라 관리)|JAVA<br>springboot|Backend Developer|10개월 활동|
 |2023.09-        |창업팀(voyager)<br>(서버 개발, 데이터 관리, 인프라 관리, 기획/마케팅)|JAVA<br>springboot|Backend Developer|현재 활동 중|
+|2023.09-        |캡스톤프로젝트(FBI)<br>(API 개발, 채팅봇 구현, 서버 개발, 데이터 관리, 인프라 관리)|Python<br>Django|Backend Developer|현재 활동 중|
 |2022.09-2023.08 |핀테크 인턴<br>(스크래핑 데이터 분석, 웹페이지 개발, 슬랙 통신봇 개발)|Python<br>Django|Backend Developer|1년 활동|
 |2022.06-2022.08 |핀테크 개발인턴 코스<br>(개발 인턴 금융 교육 수료, “외국인 유학생 대상 P2P 대출 애플리케이션”을 주제로 데이터 분석 바탕의 개인 신용 평가 모델을 설계 및 구현)|Python<br>Django<br>html<br>css<br>javascript|Backend Developer, Frontend Developer|250H|
