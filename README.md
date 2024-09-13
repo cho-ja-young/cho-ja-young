@@ -51,7 +51,7 @@
 # 🌱 Experiences
 |Date|Activity|Stack|Role|Detail|
 |:--:|:--:|:--:|:--:|:--:|
-|2024.09-        |블록체인 개발 연구소 인턴<br>(서비스 성능 테스트 및 업그레이드)|JAVA<br>springboot|Backend Developer|4개월 활동|
+|2024.09-        |보안, IoT, 블록체인 개발 연구소 인턴<br>(서비스 성능 테스트 및 업그레이드)|JAVA<br>springboot|Backend Developer|4개월 활동|
 |2024.03-        |데보션 영 3기(CodeSurfers)<br>(서버 개발, 데이터 관리, 인프라 관리)|JAVA<br>springboot|Backend Developer|현재 활동 중|
 |2023.09-        |창업팀(voyager)<br>(서버 개발, 데이터 관리, 인프라 관리, 기획/마케팅)|JAVA<br>springboot|Backend Developer|현재 활동 중|
 |2023.09-2024.08 |캡스톤프로젝트(FBI)<br>(API 개발, 채팅봇 구현, 서버 개발, 데이터 관리, 인프라 관리) 🌱새싹톤 32등/95팀🌱|Python<br>Django|Backend Developer|잠시 휴식 중|
