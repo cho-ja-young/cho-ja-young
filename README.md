@@ -29,11 +29,12 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
 </p>
 
-### ✔ Frameworks
+### ✔ Frameworks(environment)
 <p>  
 <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 </p>
 
@@ -51,7 +52,7 @@
 # 🌱 Experiences
 |Date|Activity|Stack|Role|Detail|
 |:--:|:--:|:--:|:--:|:--:|
-|2024.09-        |보안, IoT, 블록체인 개발 연구소 인턴<br>(서비스 성능 테스트 및 업그레이드)|JAVA<br>springboot|Backend Developer|4개월 활동|
+|2024.09-        |보안, IoT, 블록체인 개발 연구소 인턴<br>(서비스 성능 테스트 및 업그레이드)|Node.js|Backend Developer|4개월 활동|
 |2024.03-        |데보션 영 3기(CodeSurfers)<br>(서버 개발, 데이터 관리, 인프라 관리)|JAVA<br>springboot|Backend Developer|현재 활동 중|
 |2023.09-2024.09 |창업팀(voyager)<br>(창업 교육 프로그램 수료, 기획/마케팅)|Figma<br>Nocode tool|UI/UX Designer|1년 활동|
 |2023.09-2024.08 |캡스톤프로젝트(FBI)<br>(API 개발, 채팅봇 구현, 서버 개발, 데이터 관리, 인프라 관리) 🌱새싹톤 32등/95팀🌱|Python<br>Django|Backend Developer|잠시 휴식 중|
