@@ -14,6 +14,7 @@
 <br>
 
 <div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cho-ja-young&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=cho-ja-young&show_icons=true&theme=transparent">
 </div>
 
@@ -52,7 +53,7 @@
 # 🌱 Experiences
 |Date|Activity|Stack|Role|Detail|
 |:--:|:--:|:--:|:--:|:--:|
-|2024.09-        |보안, IoT, 블록체인 개발 연구소 인턴<br>(보안화 작업 조사, 웹페이지 구축, 서비스 성능 테스트 및 업그레이드)|Node.js<br>HTML<br>CSS<br>JS|FullStack Developer|4개월 활동|
+|2024.09-        |보안, IoT, 블록체인 개발회사 인턴<br>(보안화 작업 조사, 웹페이지 구축, 서비스 성능 테스트 및 업그레이드)|Node.js<br>HTML<br>CSS<br>JS|FullStack Developer|4개월 활동|
 |2024.03-        |데보션 영 3기(CodeSurfers)<br>(서버 개발, 데이터 관리, 인프라 관리)|JAVA<br>springboot|Backend Developer|현재 활동 중|
 |2023.09-2024.09 |창업팀(voyager)<br>(창업 교육 프로그램 수료, 기획/마케팅)|Figma<br>Nocode tool|UI/UX Designer|1년 활동|
 |2023.09-2024.08 |캡스톤프로젝트(FBI)<br>(API 개발, 채팅봇 구현, 서버 개발, 데이터 관리, 인프라 관리) 🌱새싹톤 32등/95팀🌱|Python<br>Django|Backend Developer|잠시 휴식 중|
